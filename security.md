@@ -9,7 +9,7 @@ The **🗄️ YT Archiver** is the most powerful YouTube channel archiving tool,
 
 <div align="center">
 
-[![Download YT Archiver](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/yt-archiver)
+[![Download YT Archiver](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/yt-archiver)
 
 </div>
 
@@ -110,7 +110,7 @@ You need a tool that saves entire channels. Preserves metadata. Keeps subtitles.
 7. **⚙️ Configure Settings** — choose quality, subtitles, etc.
 8. **📥 Start Archive** — click "Download"
 
-[![Download YT Archiver](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/yt-archiver)
+[![Download YT Archiver](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/yt-archiver)
 
 ### Archiving a Channel
 
@@ -217,7 +217,7 @@ Preserve YouTube content forever. **YT Archiver** downloads entire channels, pla
 
 <div align="center">
 
-[![Download YT Archiver](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/yt-archiver)
+[![Download YT Archiver](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/yt-archiver)
 
 **Version 4.6.1** — YouTube channel archiver. Free forever.
 
